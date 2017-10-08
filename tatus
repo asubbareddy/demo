@@ -1,4 +1,4 @@
-warning: LF will be replaced by CRLF in preactice.
+warning: LF will besy replaced by CRLF in preactice.
 The file will have its original line endings in your working directory.
 [1mdiff --git a/preactice b/preactice[m
 [1mindex 4a4a207..2040679 100644[m
