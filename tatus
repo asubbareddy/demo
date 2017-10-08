@@ -1,0 +1,26 @@
+warning: LF will be replaced by CRLF in preactice.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/preactice b/preactice[m
+[1mindex 4a4a207..2040679 100644[m
+[1m--- a/preactice[m
+[1m+++ b/preactice[m
+[36m@@ -1,2 +1,5 @@[m
+ hi all this is reddy [m
+ ready to install the url[m
+[32m+[m
+[32m+[m
+[32m+[m[32msory fo the deay[m
+\ No newline at end of file[m
+[1mdiff --git a/ravi b/ravi[m
+[1mindex 92a770e..218c93f 100644[m
+[1m--- a/ravi[m
+[1m+++ b/ravi[m
+[36m@@ -2,4 +2,6 @@[m
+  how are yu n[m
+  hdkjdsdk [m
+ [m
+[31m-ravi has the new work list[m
+[32m+[m[32mravi has the new work lists[m
+[32m+[m[32mhi ravi you are pass[m
+[32m+[m[32mdo happy free in you work[m
+\ No newline at end of file[m
